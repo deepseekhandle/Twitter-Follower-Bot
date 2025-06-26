@@ -20,7 +20,7 @@ Boost your Twitter followers automatically using this simple and efficient bot. 
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/deepseekhandle/Twitter-Follower-Bot.git
-   cd twitter-follower-bot
+   cd Twitter-Follower-Bot
    ```
 
 2. **Install Required Packages**
@@ -53,7 +53,7 @@ Boost your Twitter followers automatically using this simple and efficient bot. 
 2. **Clone the Repository**
    ```bash
    it clone https://github.com/deepseekhandle/Twitter-Follower-Bot.gi
-   cd twitter-follower-bot
+   cd Twitter-Follower-Bot
    ```
 
 3. **Install Python Packages**
